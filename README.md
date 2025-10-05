@@ -1,6 +1,6 @@
 ## Hi there👋 I am VIVI.
 
--- I am a Project_Manager/CTF Player
+-- I am a EX Project_Manager
 
 -- I am interested in everything todo with IT-Security.
 
